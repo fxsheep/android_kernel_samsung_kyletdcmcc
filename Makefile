@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
-SUBLEVEL = 9
-EXTRAVERSION = -HypernKernel=
+SUBLEVEL = 10
+EXTRAVERSION =
 NAME = Sneaky Weasel
 
 export CROSS_COMPILE=/opt/toolchains/arm-eabi-4.4.3/bin/arm-eabi-
