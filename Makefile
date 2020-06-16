@@ -4,9 +4,6 @@ SUBLEVEL = 101
 EXTRAVERSION =
 NAME = Sodden Ben Lomond
 
-export CROSS_COMPILE=/opt/toolchains/arm-eabi-4.4.3/bin/arm-eabi-
-export ARCH=arm
-export USE_SEC_FIPS_MODE=true
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
